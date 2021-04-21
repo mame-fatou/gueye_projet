@@ -23,6 +23,7 @@ function zoomIn(zoom)
 {
 	document.getElementById(zoom).style.width = '500px';
 	document.getElementById(zoom).style.height = '500px';
+	
 
 }
 zoomIn('imgZoom1')

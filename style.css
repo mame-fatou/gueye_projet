@@ -1,0 +1,57 @@
+body {
+    font-family: "Comic Sans MS", cursive, sans-serif;
+    text-align: center;
+    margin-top: 10px;
+    margin-left: 40px;
+    margin-right: 40px;
+    padding: 5px;
+background-color: beige;
+
+}
+
+
+table{
+	margin:auto;
+}	
+
+
+.cMonTableau {
+    width:400px;
+    border-collapse: separate;
+    border-spacing: 10px;
+    border-style: solid;  /* medium|thin|thick|length|initial|inherit */
+    border-color: blue;
+    border-width: 10px;
+	
+}
+
+h1 {
+    font-size: 40px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: bold;
+    font-style: italic;
+    text-decoration: wavy;
+    text-align: center;
+    color:darkblue;
+
+}
+
+
+ 
+p {
+    font-size: 20px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    font-weight: normal;
+    text-align: center;
+    color:black;
+
+}
+
+a {
+    text-decoration: none;
+}
+
+
+.menu {
+  background-color: #87CEFA ;
+  overflow: auto;
